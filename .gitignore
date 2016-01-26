@@ -1,0 +1,15 @@
+!.gitignore
+/.htaccess
+data/
+test/
+sirgle/
+test.php
+*.key
+*.sh
+log
+g5_tree
+cheditor*/
+ckeditor*/
+log/
+naver*.html
+_notes/
